@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wjpvandenheuvel
-- 👀 I’m interested in Microsoft Security.
-- 🌱 I’m currently learning SC200 & CCSP.
+- 👀 I’m interested in Microsoft Security & Techlead Microsoft Security @ Advantive.nl
+- 🌱 I’m currently learning CISSP.
 - 📫 How to reach me wesley@scildan.cloud
 
 <!---
